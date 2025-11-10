@@ -1,0 +1,12 @@
+# Ignore CSS files (Tailwind syntax not supported)
+*.css
+**/*.css
+
+# Ignore build outputs
+.next/
+out/
+build/
+dist/
+
+# Ignore dependencies
+node_modules/
